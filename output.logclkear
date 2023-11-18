@@ -1,0 +1,6 @@
+INFO:root:Executing Grep command: Searching for george.txt in C:\Users\G3ORG3HAZ\Desktop\python_proj\testFiles
+INFO:root:Grep command result: Pass
+INFO:root:Executing Categorize command: Splitting files in C:\Users\G3ORG3HAZ\Desktop\python_proj\testFiles based on size
+INFO:root:Categorize command result: Pass
+INFO:root:Executing MvLast command: Moving the most recent file from C:\Users\G3ORG3HAZ\Desktop\python_proj\testFiles to C:\Users\G3ORG3HAZ\Desktop\python_proj\testFiles2
+INFO:root:MvLast command result: Fail - No files to move

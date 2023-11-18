@@ -1,0 +1,3 @@
+Grep george.txt C:\Users\G3ORG3HAZ\Desktop\python_proj\testFiles
+Categorize C:\Users\G3ORG3HAZ\Desktop\python_proj\testFiles
+MvLast C:\Users\G3ORG3HAZ\Desktop\python_proj\testFiles C:\Users\G3ORG3HAZ\Desktop\python_proj\testFiles2
